@@ -3,8 +3,8 @@ public class Belkis{
         String nombre="natti";
         int a =5;
         int b=3;
-        int suma=a+b;
+        int mult=a*b;
         System.out.println("hola"+ nombre);
-        System.out.println("la suma de" + a +" + " + b +"es" + suma);
+        System.out.println("la suma de" + a +" + " + b +"es" + mult);
     }
 }
